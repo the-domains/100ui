@@ -1,6 +1,6 @@
 name: 100ui
 favicon: null
-layout_spectrum: 0.97512
+layout_spectrum: 0.86073
 typography_spectrum: 0.45266
 title: 100 days of ui
 cta:
@@ -23,7 +23,7 @@ color:
     - '#3E363F'
     - '#DD403A'
   brandStrength: 0
-  lightness: 0.09527823235839605
-  saturation: 0.08879538276232779
-  rhythmicContrast: 0.5025717315729707
+  lightness: 0.375
+  saturation: 0.8125
+  rhythmicContrast: 0.25
 purpose: []
