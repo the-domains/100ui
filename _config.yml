@@ -1,0 +1,28 @@
+name: 100ui
+favicon: null
+layout_spectrum: 0.5729478925932199
+typography_spectrum: 0.4249653450679034
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4040469278115779
+  lightness: 0.09527823235839605
+  saturation: 0.08879538276232779
+  rhythmicContrast: 0.5025717315729707
+purpose: []
