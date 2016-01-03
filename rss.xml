@@ -4,8 +4,15 @@
         <description><![CDATA[100 days of ui]]></description>
         <link>https://thegrid.ai/100ui/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 10:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 10:14:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/100ui/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[14 - countdown timer]]></title>
+            <description><![CDATA[<article><h1>14 - countdown timer</h1><p>This one looked a lot better in my brain before I started making it unfortunately. The idea here is that the outer ring will signify minutes and the inner will show seconds, so you have that sort of dual display thing</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/750d7de1cd86fbb86d8f2fcff9ba259702287090.png"></article>]]></description>
+            <link>https://thegrid.ai/100ui/73a9c682-a3a9-437a-9808-45caec11a12f/index.html</link>
+            <guid isPermaLink="false">73a9c682-a3a9-437a-9808-45caec11a12f</guid>
+            <pubDate>Sun, 03 Jan 2016 10:14:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[13 - direct message]]></title>
             <description><![CDATA[<article><h1>13 - direct message</h1><p>Kinda fucked this one up by not bottom-aligning the messages - live and learn! I can't write dialogue either</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7dccc3d2e0d65631c4296d36175748d737c8f2e1.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/100ui/c0bab751-f136-4286-af66-183e4eee4fbc/index.html</link>
             <guid isPermaLink="false">c0bab751-f136-4286-af66-183e4eee4fbc</guid>
             <pubDate>Sun, 03 Jan 2016 10:05:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[4 - calculator]]></title>
-            <description><![CDATA[<article><h1>4 - calculator</h1><p>Unfortunately a product of laziness, this one. Derivative of the style I used in the first couple (as if that wasn't obvious)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/914d25dbdc5dd69b96d79c7dfe0f769ab91de691.png"></article>]]></description>
-            <link>https://thegrid.ai/100ui/b48f1b0f-93b9-4972-8261-7280eef59657/index.html</link>
-            <guid isPermaLink="false">b48f1b0f-93b9-4972-8261-7280eef59657</guid>
-            <pubDate>Sun, 03 Jan 2016 10:04:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
