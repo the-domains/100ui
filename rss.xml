@@ -4,11 +4,18 @@
         <description><![CDATA[100 days of ui]]></description>
         <link>https://thegrid.ai/100ui/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 10:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 10:10:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/100ui/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[10 - social share]]></title>
+            <description><![CDATA[<article><h1>10 - social share</h1><p>My aim for this one was to show the whole "this network has x posts, this one has y posts" etc. Not sure it really works, the whole circle motif is starting to really bleed into my designs</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10f9a6094c5a49c8f0f56ea966568064621a96e8.png"></article>]]></description>
+            <link>https://thegrid.ai/100ui/b0fee7b0-19d9-459e-a1ee-29da3900320c/index.html</link>
+            <guid isPermaLink="false">b0fee7b0-19d9-459e-a1ee-29da3900320c</guid>
+            <pubDate>Sun, 03 Jan 2016 10:10:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[9 - music player]]></title>
-            <description><![CDATA[<article><h1>9 - music player</h1><p>This is the shit, absolutely loved doing this one. Shout out to Rivers of Nihil - what a crushing album to end 2015</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1de656ffc993eda574b2b78c002d74fcf4b7d619.png"></article>]]></description>
+            <description><![CDATA[<article><h1>9 - music player</h1><p>This is the shit, absolutely loved doing this one. Shout out to Rivers of Nihil - what a crushing album to end 2015</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5c7cff48d4c5de0acf2ffaf23d5e53eabb81284.png"></article>]]></description>
             <link>https://thegrid.ai/100ui/4aae4e7e-57ee-495d-b911-ea7fee2babe2/index.html</link>
             <guid isPermaLink="false">4aae4e7e-57ee-495d-b911-ea7fee2babe2</guid>
             <pubDate>Sun, 03 Jan 2016 10:09:46 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/100ui/1-signup/index.html</link>
             <guid isPermaLink="false">a30b5bf7-7329-456e-a390-c53973b6e930</guid>
             <pubDate>Sun, 03 Jan 2016 08:22:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ab37fb6-e7e1-4253-95f0-419576269c4f.png">]]></description>
-            <link>https://thegrid.ai/100ui/73a9c682-a3a9-437a-9808-45caec11a12f/index.html</link>
-            <guid isPermaLink="false">73a9c682-a3a9-437a-9808-45caec11a12f</guid>
-            <pubDate>Sun, 03 Jan 2016 05:42:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
