@@ -4,8 +4,15 @@
         <description><![CDATA[100 days of ui]]></description>
         <link>https://thegrid.ai/100ui/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 10:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 10:12:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/100ui/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[12 - e-commerce item]]></title>
+            <description><![CDATA[<article><h1>12 - e-commerce item</h1><p>This one has probably been my favourite so far. Really enjoyed doing this; some really brilliant imagery and some really simple typography and flat ui elements. So fun :)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b8bbb30430f3cec635255f5b9fa6fec8da41ea0.png"></article>]]></description>
+            <link>https://thegrid.ai/100ui/e40eeb98-21fd-48ca-827b-588f4b0e006b/index.html</link>
+            <guid isPermaLink="false">e40eeb98-21fd-48ca-827b-588f4b0e006b</guid>
+            <pubDate>Sun, 03 Jan 2016 10:12:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[11 - flash message (success/failure)]]></title>
             <description><![CDATA[<article><h1>11 - flash message (success/failure)</h1><p>Pretty much the minute I finished this design, I implemented it in my company's software. We needed a really simple, poppy flash card - imo</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90ee2fdac03ab4832547968c202d997dc78560f1.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/100ui/d6cf189d-a1e7-4691-b326-b0714a78e203/index.html</link>
             <guid isPermaLink="false">d6cf189d-a1e7-4691-b326-b0714a78e203</guid>
             <pubDate>Sun, 03 Jan 2016 08:22:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2 - credit card confirmation]]></title>
-            <description><![CDATA[<article><h1>2 - credit card confirmation</h1><p>yeah, much the same as yesterday - some pretty simple colours and details. I'm not so happy with some of the detail in the fields, or the spacing between the fields. I'd fix that up if I went back to this.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2f0dfa908aebd406849061fcb3ee2251dad06b3.png"></article>]]></description>
-            <link>https://thegrid.ai/100ui/7af6e1fc-e94a-419f-8afa-31e18b4c7a33/index.html</link>
-            <guid isPermaLink="false">7af6e1fc-e94a-419f-8afa-31e18b4c7a33</guid>
-            <pubDate>Sun, 03 Jan 2016 08:22:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
