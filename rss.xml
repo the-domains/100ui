@@ -4,8 +4,15 @@
         <description><![CDATA[100 days of ui]]></description>
         <link>https://thegrid.ai/100ui/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 10:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 10:11:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/100ui/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[11 - flash message (success/failure)]]></title>
+            <description><![CDATA[<article><h1>11 - flash message (success/failure)</h1><p>Pretty much the minute I finished this design, I implemented it in my company's software. We needed a really simple, poppy flash card - imo</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90ee2fdac03ab4832547968c202d997dc78560f1.png"></article>]]></description>
+            <link>https://thegrid.ai/100ui/07320701-e9d4-4cb0-baf7-4ac8c5f3e97f/index.html</link>
+            <guid isPermaLink="false">07320701-e9d4-4cb0-baf7-4ac8c5f3e97f</guid>
+            <pubDate>Sun, 03 Jan 2016 10:11:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[10 - social share]]></title>
             <description><![CDATA[<article><h1>10 - social share</h1><p>My aim for this one was to show the whole "this network has x posts, this one has y posts" etc. Not sure it really works, the whole circle motif is starting to really bleed into my designs</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10f9a6094c5a49c8f0f56ea966568064621a96e8.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/100ui/7af6e1fc-e94a-419f-8afa-31e18b4c7a33/index.html</link>
             <guid isPermaLink="false">7af6e1fc-e94a-419f-8afa-31e18b4c7a33</guid>
             <pubDate>Sun, 03 Jan 2016 08:22:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1 - signup]]></title>
-            <description><![CDATA[<article><h1>1 - signup</h1><p>So, time to start this mega journey with something pretty simple. My background is mostly as a software developer, but I've spent a large amount of my life and career doing ui design.It's probably not hard to tell that I'm really into flat/minimal design these days. So, let's see if I can improve some stuff</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c35e0e8072001985858e26dc29220decada1c24a.png"></article>]]></description>
-            <link>https://thegrid.ai/100ui/1-signup/index.html</link>
-            <guid isPermaLink="false">a30b5bf7-7329-456e-a390-c53973b6e930</guid>
-            <pubDate>Sun, 03 Jan 2016 08:22:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
