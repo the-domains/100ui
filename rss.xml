@@ -4,8 +4,15 @@
         <description><![CDATA[100 days of ui]]></description>
         <link>https://thegrid.ai/100ui/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 10:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 10:13:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/100ui/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[13 - direct message]]></title>
+            <description><![CDATA[<article><h1>13 - direct message</h1><p>Kinda fucked this one up by not bottom-aligning the messages - live and learn! I can't write dialogue either</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7dccc3d2e0d65631c4296d36175748d737c8f2e1.png"></article>]]></description>
+            <link>https://thegrid.ai/100ui/ad0b50b4-af44-4652-ae87-db19f101ad7a/index.html</link>
+            <guid isPermaLink="false">ad0b50b4-af44-4652-ae87-db19f101ad7a</guid>
+            <pubDate>Sun, 03 Jan 2016 10:13:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[12 - e-commerce item]]></title>
             <description><![CDATA[<article><h1>12 - e-commerce item</h1><p>This one has probably been my favourite so far. Really enjoyed doing this; some really brilliant imagery and some really simple typography and flat ui elements. So fun :)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b8bbb30430f3cec635255f5b9fa6fec8da41ea0.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/100ui/b48f1b0f-93b9-4972-8261-7280eef59657/index.html</link>
             <guid isPermaLink="false">b48f1b0f-93b9-4972-8261-7280eef59657</guid>
             <pubDate>Sun, 03 Jan 2016 10:04:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3 - landing page]]></title>
-            <description><![CDATA[<article><h1>3 - landing page</h1><p>I haven't really done a whole lot of actual web stuff, so making a landing page is pretty interesting. Although with this one I think I've pretty much just followed the leader - simple header, call to action (that's a bit unbalanced) and some guidance to keep going down the page.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f7d08c01bb46a32791e07bac43b84f75a6f2c1c.png"></article>]]></description>
-            <link>https://thegrid.ai/100ui/d6cf189d-a1e7-4691-b326-b0714a78e203/index.html</link>
-            <guid isPermaLink="false">d6cf189d-a1e7-4691-b326-b0714a78e203</guid>
-            <pubDate>Sun, 03 Jan 2016 08:22:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
