@@ -4,8 +4,15 @@
         <description><![CDATA[100 days of ui]]></description>
         <link>https://thegrid.ai/100ui/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 10:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 10:08:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/100ui/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[8 - 404]]></title>
+            <description><![CDATA[<article><h1>8 - 404</h1><p>I once created an entire system ui with just typography. People didn't like it because it "wasted too much real estate", but I absolutely loved it. This is a small homage to that</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cecd8712d2f44ce3df749fb805eaf14ba7029799.png"></article>]]></description>
+            <link>https://thegrid.ai/100ui/62e3c58a-f4ce-40d4-ae50-83f801d10f48/index.html</link>
+            <guid isPermaLink="false">62e3c58a-f4ce-40d4-ae50-83f801d10f48</guid>
+            <pubDate>Sun, 03 Jan 2016 10:08:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[7 - settings]]></title>
             <description><![CDATA[<article><h1>7 - settings</h1><p>I really liked doing this one. It's pretty much in line with a lot of the flat design work I've been doing professionally</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d69efa9a50fdc1bcfbfd8bc6635672368b0eef8.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/100ui/ad0b50b4-af44-4652-ae87-db19f101ad7a/index.html</link>
             <guid isPermaLink="false">ad0b50b4-af44-4652-ae87-db19f101ad7a</guid>
             <pubDate>Sun, 03 Jan 2016 05:42:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/251104b5-d60b-4bd1-82fa-a5a5b123c0f8.png">]]></description>
-            <link>https://thegrid.ai/100ui/e40eeb98-21fd-48ca-827b-588f4b0e006b/index.html</link>
-            <guid isPermaLink="false">e40eeb98-21fd-48ca-827b-588f4b0e006b</guid>
-            <pubDate>Sat, 02 Jan 2016 08:56:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
