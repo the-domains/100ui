@@ -4,8 +4,15 @@
         <description><![CDATA[100 days of ui]]></description>
         <link>https://thegrid.ai/100ui/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 08:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 10:02:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/100ui/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[4 - calculator]]></title>
+            <description><![CDATA[<article><h1>4 - calculator</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97dfac75494461855a8b3ca74c00a51577ab7a2a.png"></article>]]></description>
+            <link>https://thegrid.ai/100ui/b48f1b0f-93b9-4972-8261-7280eef59657/index.html</link>
+            <guid isPermaLink="false">b48f1b0f-93b9-4972-8261-7280eef59657</guid>
+            <pubDate>Sun, 03 Jan 2016 10:02:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[3 - landing page]]></title>
             <description><![CDATA[<article><h1>3 - landing page</h1><p>I haven't really done a whole lot of actual web stuff, so making a landing page is pretty interesting. Although with this one I think I've pretty much just followed the leader - simple header, call to action (that's a bit unbalanced) and some guidance to keep going down the page.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f7d08c01bb46a32791e07bac43b84f75a6f2c1c.png"></article>]]></description>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[1 - signup]]></title>
-            <description><![CDATA[<article><h1>1 - signup</h1><p>So, time to start this mega journey with something pretty simple. My background is mostly as a software developer, but I've spent a large amount of my life and career doing ui design.It's probably not hard to tell that I'm really into flat/minimal design these days. So, let's see if I can improve some stuff</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfcb042555d913a27cf3df75a5a92ab352b5e4b1.png"></article>]]></description>
+            <description><![CDATA[<article><h1>1 - signup</h1><p>So, time to start this mega journey with something pretty simple. My background is mostly as a software developer, but I've spent a large amount of my life and career doing ui design.It's probably not hard to tell that I'm really into flat/minimal design these days. So, let's see if I can improve some stuff</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c35e0e8072001985858e26dc29220decada1c24a.png"></article>]]></description>
             <link>https://thegrid.ai/100ui/1-signup/index.html</link>
             <guid isPermaLink="false">a30b5bf7-7329-456e-a390-c53973b6e930</guid>
             <pubDate>Sun, 03 Jan 2016 08:22:37 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/100ui/4aae4e7e-57ee-495d-b911-ea7fee2babe2/index.html</link>
             <guid isPermaLink="false">4aae4e7e-57ee-495d-b911-ea7fee2babe2</guid>
             <pubDate>Fri, 01 Jan 2016 08:06:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c9cfe5f-6a51-427c-89b3-14bf847fb46f.png">]]></description>
-            <link>https://thegrid.ai/100ui/62e3c58a-f4ce-40d4-ae50-83f801d10f48/index.html</link>
-            <guid isPermaLink="false">62e3c58a-f4ce-40d4-ae50-83f801d10f48</guid>
-            <pubDate>Fri, 01 Jan 2016 08:06:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
