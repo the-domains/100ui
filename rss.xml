@@ -4,8 +4,15 @@
         <description><![CDATA[100 days of ui]]></description>
         <link>https://thegrid.ai/100ui/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 08:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 08:23:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/100ui/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[3 - landing page]]></title>
+            <description><![CDATA[<article><h1>3 - landing page</h1><p>I haven't really done a whole lot of actual web stuff, so making a landing page is pretty interesting. Although with this one I think I've pretty much just followed the leader - simple header, call to action (that's a bit unbalanced) and some guidance to keep going down the page.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f7d08c01bb46a32791e07bac43b84f75a6f2c1c.png"></article>]]></description>
+            <link>https://thegrid.ai/100ui/d6cf189d-a1e7-4691-b326-b0714a78e203/index.html</link>
+            <guid isPermaLink="false">d6cf189d-a1e7-4691-b326-b0714a78e203</guid>
+            <pubDate>Sun, 03 Jan 2016 08:22:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2 - credit card confirmation]]></title>
             <description><![CDATA[<article><h1>2 - credit card confirmation</h1><p>yeah, much the same as yesterday - some pretty simple colours and details. I'm not so happy with some of the detail in the fields, or the spacing between the fields. I'd fix that up if I went back to this.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2f0dfa908aebd406849061fcb3ee2251dad06b3.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/100ui/62e3c58a-f4ce-40d4-ae50-83f801d10f48/index.html</link>
             <guid isPermaLink="false">62e3c58a-f4ce-40d4-ae50-83f801d10f48</guid>
             <pubDate>Fri, 01 Jan 2016 08:06:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a5815b8-ef0e-4b25-925b-e34253e39525.png">]]></description>
-            <link>https://thegrid.ai/100ui/af726d56-5957-4cfc-9241-518ed5f83b56/index.html</link>
-            <guid isPermaLink="false">af726d56-5957-4cfc-9241-518ed5f83b56</guid>
-            <pubDate>Fri, 01 Jan 2016 05:21:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
