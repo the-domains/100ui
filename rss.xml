@@ -4,11 +4,18 @@
         <description><![CDATA[100 days of ui]]></description>
         <link>https://thegrid.ai/100ui/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 15:55:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jan 2016 15:40:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/100ui/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[17 - email receipt]]></title>
+            <description><![CDATA[<article><h1>17 - email receipt</h1><p>Much happier with this one than the one on the previous day. Might actually pitch this to the actual business ;)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bdd4b898e1668fa525fbbad08340bdfd3600e1e4.png"></article>]]></description>
+            <link>https://thegrid.ai/100ui/17-email-receipt/index.html</link>
+            <guid isPermaLink="false">e1443106-0802-4f69-956f-160af97bee74</guid>
+            <pubDate>Thu, 07 Jan 2016 15:39:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[16 - popup]]></title>
-            <description><![CDATA[<article><h1>16 - popup</h1><p>I'm running pretty low on inspiration here - tried to do something slightly different to older stuff, but coming up empty. Move on :(</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e4c19479c7146413e61b8e9df2a0bb320aa5289.png"></article>]]></description>
+            <description><![CDATA[<article><h1>16 - popup</h1><p>I'm running pretty low on inspiration here - tried to do something slightly different to older stuff, but coming up empty. Move on :(</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57c42b7eb086b95b8640e39deba3c8fc192c6f76.png"></article>]]></description>
             <link>https://thegrid.ai/100ui/16-popup/index.html</link>
             <guid isPermaLink="false">fb233b50-326e-45cf-8f91-84a279df9a35</guid>
             <pubDate>Wed, 06 Jan 2016 15:54:43 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/100ui/62e3c58a-f4ce-40d4-ae50-83f801d10f48/index.html</link>
             <guid isPermaLink="false">62e3c58a-f4ce-40d4-ae50-83f801d10f48</guid>
             <pubDate>Sun, 03 Jan 2016 10:08:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7 - settings]]></title>
-            <description><![CDATA[<article><h1>7 - settings</h1><p>I really liked doing this one. It's pretty much in line with a lot of the flat design work I've been doing professionally</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c95e0885416a8798ceaef9b46c78140cd76ddd65.png"></article>]]></description>
-            <link>https://thegrid.ai/100ui/4665c0b3-bd08-43f2-ab6e-5c79e14de109/index.html</link>
-            <guid isPermaLink="false">4665c0b3-bd08-43f2-ab6e-5c79e14de109</guid>
-            <pubDate>Sun, 03 Jan 2016 10:07:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
