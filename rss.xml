@@ -4,11 +4,18 @@
         <description><![CDATA[100 days of ui]]></description>
         <link>https://thegrid.ai/100ui/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 15:40:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jan 2016 15:55:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/100ui/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[18 - analytics charts]]></title>
+            <description><![CDATA[<article><h1>18 - analytics charts</h1><p>This is a weird one. I've always felt like I wanted to do something like this, but I end up getting really bored halfway through it. I'm not entirely unhappy with how this turned out, though. powerfulemoji.cool is a stupid address</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fba58ac65302255be79a327201487b946e904bdd.png"></article>]]></description>
+            <link>https://thegrid.ai/100ui/18-analytics-charts/index.html</link>
+            <guid isPermaLink="false">bb530e24-2df0-44ad-863f-9a420a4c2ef3</guid>
+            <pubDate>Sun, 10 Jan 2016 15:55:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[17 - email receipt]]></title>
-            <description><![CDATA[<article><h1>17 - email receipt</h1><p>Much happier with this one than the one on the previous day. Might actually pitch this to the actual business ;)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bdd4b898e1668fa525fbbad08340bdfd3600e1e4.png"></article>]]></description>
+            <description><![CDATA[<article><h1>17 - email receipt</h1><p>Much happier with this one than the one on the previous day. Might actually pitch this to the actual business ;)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/496e3ab46f851b096459ce9608a44402d7efd584.png"></article>]]></description>
             <link>https://thegrid.ai/100ui/17-email-receipt/index.html</link>
             <guid isPermaLink="false">e1443106-0802-4f69-956f-160af97bee74</guid>
             <pubDate>Thu, 07 Jan 2016 15:39:32 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/100ui/4aae4e7e-57ee-495d-b911-ea7fee2babe2/index.html</link>
             <guid isPermaLink="false">4aae4e7e-57ee-495d-b911-ea7fee2babe2</guid>
             <pubDate>Sun, 03 Jan 2016 10:09:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[8 - 404]]></title>
-            <description><![CDATA[<article><h1>8 - 404</h1><p>I once created an entire system ui with just typography. People didn't like it because it "wasted too much real estate", but I absolutely loved it. This is a small homage to that</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a64eb0adea263b079559b351c3eda8939dd49e74.png"></article>]]></description>
-            <link>https://thegrid.ai/100ui/62e3c58a-f4ce-40d4-ae50-83f801d10f48/index.html</link>
-            <guid isPermaLink="false">62e3c58a-f4ce-40d4-ae50-83f801d10f48</guid>
-            <pubDate>Sun, 03 Jan 2016 10:08:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
