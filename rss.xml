@@ -4,11 +4,18 @@
         <description><![CDATA[100 days of ui]]></description>
         <link>https://thegrid.ai/100ui/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 15:55:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jan 2016 15:45:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/100ui/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[19 - leaderboard]]></title>
+            <description><![CDATA[<article><h1>19 - leaderboard</h1><p>Ugh, I just don't like this one. This seems to be a little bit of a trend lately</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea28376b0e566c5069f2b107de958661141c4726.png"></article>]]></description>
+            <link>https://thegrid.ai/100ui/19-leaderboard/index.html</link>
+            <guid isPermaLink="false">763b1255-9e49-415b-9848-40910f9be115</guid>
+            <pubDate>Mon, 11 Jan 2016 15:44:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[18 - analytics charts]]></title>
-            <description><![CDATA[<article><h1>18 - analytics charts</h1><p>This is a weird one. I've always felt like I wanted to do something like this, but I end up getting really bored halfway through it. I'm not entirely unhappy with how this turned out, though. powerfulemoji.cool is a stupid address</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fba58ac65302255be79a327201487b946e904bdd.png"></article>]]></description>
+            <description><![CDATA[<article><h1>18 - analytics charts</h1><p>This is a weird one. I've always felt like I wanted to do something like this, but I end up getting really bored halfway through it. I'm not entirely unhappy with how this turned out, though. powerfulemoji.cool is a stupid address</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/faca0cea27e5643c258e572cd4f2d47dcb2cc041.png"></article>]]></description>
             <link>https://thegrid.ai/100ui/18-analytics-charts/index.html</link>
             <guid isPermaLink="false">bb530e24-2df0-44ad-863f-9a420a4c2ef3</guid>
             <pubDate>Sun, 10 Jan 2016 15:55:38 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/100ui/b0fee7b0-19d9-459e-a1ee-29da3900320c/index.html</link>
             <guid isPermaLink="false">b0fee7b0-19d9-459e-a1ee-29da3900320c</guid>
             <pubDate>Sun, 03 Jan 2016 10:10:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[9 - music player]]></title>
-            <description><![CDATA[<article><h1>9 - music player</h1><p>This is the shit, absolutely loved doing this one. Shout out to Rivers of Nihil - what a crushing album to end 2015</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5c7cff48d4c5de0acf2ffaf23d5e53eabb81284.png"></article>]]></description>
-            <link>https://thegrid.ai/100ui/4aae4e7e-57ee-495d-b911-ea7fee2babe2/index.html</link>
-            <guid isPermaLink="false">4aae4e7e-57ee-495d-b911-ea7fee2babe2</guid>
-            <pubDate>Sun, 03 Jan 2016 10:09:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
