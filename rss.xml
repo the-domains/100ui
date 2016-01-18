@@ -4,8 +4,29 @@
         <description><![CDATA[100 days of ui]]></description>
         <link>https://thegrid.ai/100ui/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 02:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 15:13:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/100ui/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/92b6bee8-f741-4fc0-bbc1-6e28eea83629.png">]]></description>
+            <link>https://thegrid.ai/100ui/3bd59bd3-84ba-4549-bcb8-757673018842/index.html</link>
+            <guid isPermaLink="false">3bd59bd3-84ba-4549-bcb8-757673018842</guid>
+            <pubDate>Mon, 18 Jan 2016 15:12:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/acec922b-9c45-413f-8a72-c49f3912d0e9.png">]]></description>
+            <link>https://thegrid.ai/100ui/70bd90e9-4b5b-49f7-a71d-438639e97f2e/index.html</link>
+            <guid isPermaLink="false">70bd90e9-4b5b-49f7-a71d-438639e97f2e</guid>
+            <pubDate>Mon, 18 Jan 2016 02:14:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a6347cf-de8b-4560-91f5-0bd96b313b98.png">]]></description>
+            <link>https://thegrid.ai/100ui/c2bf3827-7bc7-4659-a931-7f87de0722b6/index.html</link>
+            <guid isPermaLink="false">c2bf3827-7bc7-4659-a931-7f87de0722b6</guid>
+            <pubDate>Mon, 18 Jan 2016 02:13:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/42b14724-99b1-44d6-a734-05cb16c4e676.png">]]></description>
@@ -54,27 +75,6 @@
             <link>https://thegrid.ai/100ui/15-onoff-switch/index.html</link>
             <guid isPermaLink="false">81d5bb46-f6f3-4615-85e3-ff6588e2cf1c</guid>
             <pubDate>Tue, 05 Jan 2016 05:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[14 - countdown timer]]></title>
-            <description><![CDATA[<article><h1>14 - countdown timer</h1><p>This one looked a lot better in my brain before I started making it unfortunately. The idea here is that the outer ring will signify minutes and the inner will show seconds, so you have that sort of dual display thing</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7ab7aa6c54e4990890a9051fbd16f2c819f2090.png"></article>]]></description>
-            <link>https://thegrid.ai/100ui/73a9c682-a3a9-437a-9808-45caec11a12f/index.html</link>
-            <guid isPermaLink="false">73a9c682-a3a9-437a-9808-45caec11a12f</guid>
-            <pubDate>Sun, 03 Jan 2016 10:14:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[13 - direct message]]></title>
-            <description><![CDATA[<article><h1>13 - direct message</h1><p>Kinda fucked this one up by not bottom-aligning the messages - live and learn! I can't write dialogue either</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93fef104a9075ebf0caa783db903faa58cc7c960.png"></article>]]></description>
-            <link>https://thegrid.ai/100ui/ad0b50b4-af44-4652-ae87-db19f101ad7a/index.html</link>
-            <guid isPermaLink="false">ad0b50b4-af44-4652-ae87-db19f101ad7a</guid>
-            <pubDate>Sun, 03 Jan 2016 10:13:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[12 - e-commerce item]]></title>
-            <description><![CDATA[<article><h1>12 - e-commerce item</h1><p>This one has probably been my favourite so far. Really enjoyed doing this; some really brilliant imagery and some really simple typography and flat ui elements. So fun :)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b045cea179722987d4a6ae09a117947138a880e2.png"></article>]]></description>
-            <link>https://thegrid.ai/100ui/e40eeb98-21fd-48ca-827b-588f4b0e006b/index.html</link>
-            <guid isPermaLink="false">e40eeb98-21fd-48ca-827b-588f4b0e006b</guid>
-            <pubDate>Sun, 03 Jan 2016 10:12:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
