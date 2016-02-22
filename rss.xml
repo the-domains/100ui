@@ -4,8 +4,15 @@
         <description><![CDATA[100 days of ui]]></description>
         <link>https://thegrid.ai/100ui/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 14:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 14:20:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/100ui/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[46 - invoice]]></title>
+            <description><![CDATA[<article><h1>46 - invoice</h1><p>These design ideas are all starting to blend into one these days. I'm trying really hard to reduce as much as I possibly can - try to be more minimal</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbf56c30d5dc6f38f209e60efc3e445e81924132.png"></article>]]></description>
+            <link>https://thegrid.ai/100ui/46-invoice/index.html</link>
+            <guid isPermaLink="false">40f4db85-3210-4bdd-bb46-acbbb6db729b</guid>
+            <pubDate>Mon, 22 Feb 2016 14:20:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d40d596a-a514-43e8-a407-6f6615524033.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/100ui/541d2426-7e8e-4f05-88c7-ec147d920d63/index.html</link>
             <guid isPermaLink="false">541d2426-7e8e-4f05-88c7-ec147d920d63</guid>
             <pubDate>Wed, 03 Feb 2016 12:56:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d96e8304-d4db-4110-859d-46c3a22713cb.png">]]></description>
-            <link>https://thegrid.ai/100ui/e26f50fb-73aa-4330-b3d9-8f1d94a45117/index.html</link>
-            <guid isPermaLink="false">e26f50fb-73aa-4330-b3d9-8f1d94a45117</guid>
-            <pubDate>Tue, 02 Feb 2016 10:33:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
