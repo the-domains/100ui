@@ -4,8 +4,15 @@
         <description><![CDATA[100 days of ui]]></description>
         <link>https://thegrid.ai/100ui/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 14:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 14:21:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/100ui/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[47 - activity feed]]></title>
+            <description><![CDATA[<article><h1>47 - activity feed</h1><p>Really quite happy with this one; although there is a bit of a value/style issue with the header text there. Reduce-reduce-reduce!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff101f91a5eb84d608093fa6a1b368077037dc79.png"></article>]]></description>
+            <link>https://thegrid.ai/100ui/47-activity-feed/index.html</link>
+            <guid isPermaLink="false">204c7ebc-e71a-4624-960e-e7a6ac6c0ab8</guid>
+            <pubDate>Mon, 22 Feb 2016 14:20:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[46 - invoice]]></title>
             <description><![CDATA[<article><h1>46 - invoice</h1><p>These design ideas are all starting to blend into one these days. I'm trying really hard to reduce as much as I possibly can - try to be more minimal</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbf56c30d5dc6f38f209e60efc3e445e81924132.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/100ui/96119058-b5da-436c-952f-cd7a6b695858/index.html</link>
             <guid isPermaLink="false">96119058-b5da-436c-952f-cd7a6b695858</guid>
             <pubDate>Thu, 04 Feb 2016 08:51:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8df76169-d1ae-468e-b044-fd6d3e760d8f.png">]]></description>
-            <link>https://thegrid.ai/100ui/541d2426-7e8e-4f05-88c7-ec147d920d63/index.html</link>
-            <guid isPermaLink="false">541d2426-7e8e-4f05-88c7-ec147d920d63</guid>
-            <pubDate>Wed, 03 Feb 2016 12:56:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
