@@ -4,8 +4,15 @@
         <description><![CDATA[100 days of ui]]></description>
         <link>https://thegrid.ai/100ui/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 06:27:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 07:41:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/100ui/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[20 - location tracker]]></title>
+            <description><![CDATA[<article><h1>20 - location tracker</h1><p>I don't mind this one too much, there are some value issues going on with the items on the map itself. Has potential, though.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24617dfd9e1042ebe1b7bda44bb5b03388f40ffc.png"></article>]]></description>
+            <link>https://thegrid.ai/100ui/5dd5ed52-9284-4d79-bfab-6798a666d3d1/index.html</link>
+            <guid isPermaLink="false">5dd5ed52-9284-4d79-bfab-6798a666d3d1</guid>
+            <pubDate>Tue, 23 Feb 2016 07:41:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5960a25-97a9-48ad-b42e-58629fa1427a.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/100ui/28aba654-47fd-47a0-b695-0a14292f1789/index.html</link>
             <guid isPermaLink="false">28aba654-47fd-47a0-b695-0a14292f1789</guid>
             <pubDate>Fri, 12 Feb 2016 08:36:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/faf15e2b-6f24-42ca-a3cb-d23d20ad3af9.png">]]></description>
-            <link>https://thegrid.ai/100ui/e735de97-d0ed-417f-89ce-f9f552f15a3f/index.html</link>
-            <guid isPermaLink="false">e735de97-d0ed-417f-89ce-f9f552f15a3f</guid>
-            <pubDate>Thu, 11 Feb 2016 04:28:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
