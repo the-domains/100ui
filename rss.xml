@@ -4,11 +4,18 @@
         <description><![CDATA[100 days of ui]]></description>
         <link>https://thegrid.ai/100ui/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 07:42:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 06:07:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/100ui/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87e2e4b5-05c7-4938-b0ff-7341940691fb.png">]]></description>
+            <link>https://thegrid.ai/100ui/63f1cdf5-6a24-4ce3-9fd8-44d79dc1ea91/index.html</link>
+            <guid isPermaLink="false">63f1cdf5-6a24-4ce3-9fd8-44d79dc1ea91</guid>
+            <pubDate>Wed, 24 Feb 2016 06:06:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[21 - home monitoring dashboard]]></title>
-            <description><![CDATA[<article><h1>21 - home monitoring dashboard</h1><p>I'm happy with certain aspects of this design. Some things don't really come across the way I originally intended, though. I wanted to have glyphs instead of words, but I sort of ran out of time; and maybe it's not super obvious that the lines are supposed to be "sliders" for these things</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b9290bcaab46f5ba58d502f24404cb8f0b6058e.png"></article>]]></description>
+            <description><![CDATA[<article><h1>21 - home monitoring dashboard</h1><p>I'm happy with certain aspects of this design. Some things don't really come across the way I originally intended, though. I wanted to have glyphs instead of words, but I sort of ran out of time; and maybe it's not super obvious that the lines are supposed to be "sliders" for these things</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cec21cfa9ac9259b08b161795657c1b95bafa70b.png"></article>]]></description>
             <link>https://thegrid.ai/100ui/5a993fe4-eaf1-4181-ba8b-2f47eb72d33b/index.html</link>
             <guid isPermaLink="false">5a993fe4-eaf1-4181-ba8b-2f47eb72d33b</guid>
             <pubDate>Tue, 23 Feb 2016 07:41:28 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/100ui/06f3e897-0091-4ea2-91be-00f06aa60c5e/index.html</link>
             <guid isPermaLink="false">06f3e897-0091-4ea2-91be-00f06aa60c5e</guid>
             <pubDate>Mon, 15 Feb 2016 06:00:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c1e602e-b595-4b61-86fc-0e4a68102ef0.png">]]></description>
-            <link>https://thegrid.ai/100ui/90f2b8e6-9e4d-4a70-b7ac-2d0d68488383/index.html</link>
-            <guid isPermaLink="false">90f2b8e6-9e4d-4a70-b7ac-2d0d68488383</guid>
-            <pubDate>Mon, 15 Feb 2016 06:00:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
