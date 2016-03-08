@@ -4,8 +4,15 @@
         <description><![CDATA[100 days of ui]]></description>
         <link>https://thegrid.ai/100ui/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 01:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 15:33:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/100ui/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[61 - redeem coupon]]></title>
+            <description><![CDATA[<article><h1>61 - redeem coupon</h1><p>Bit of a rote one, this one, and it uses "data" from an older challenge. I tried to do something a bit less ornate and go with a largely typographic thing. I really like this palette from lolcolors.com too</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b86a60be-8081-4ad8-a089-326ef876c2ed.png"></article>]]></description>
+            <link>https://thegrid.ai/100ui/61-redeem-coupon/index.html</link>
+            <guid isPermaLink="false">f798eaca-e9ae-46cf-a1af-dec58e33fd7c</guid>
+            <pubDate>Tue, 08 Mar 2016 15:31:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2d8e29b-10d9-4f36-b86e-c616da0f3b88.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/100ui/52-dailyui-logo/index.html</link>
             <guid isPermaLink="false">01d0643a-7944-4246-946f-43ba9cc9f7d0</guid>
             <pubDate>Fri, 26 Feb 2016 11:36:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87e2e4b5-05c7-4938-b0ff-7341940691fb.png">]]></description>
-            <link>https://thegrid.ai/100ui/63f1cdf5-6a24-4ce3-9fd8-44d79dc1ea91/index.html</link>
-            <guid isPermaLink="false">63f1cdf5-6a24-4ce3-9fd8-44d79dc1ea91</guid>
-            <pubDate>Wed, 24 Feb 2016 06:06:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
