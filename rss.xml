@@ -4,11 +4,18 @@
         <description><![CDATA[100 days of ui]]></description>
         <link>https://thegrid.ai/100ui/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 05:02:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 01:08:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/100ui/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff735d47-b38f-487a-9b76-1bc7f7186ff5.png">]]></description>
+            <link>https://thegrid.ai/100ui/621b2e49-4b5c-4c70-9b1d-ec4c2bcb3ab0/index.html</link>
+            <guid isPermaLink="false">621b2e49-4b5c-4c70-9b1d-ec4c2bcb3ab0</guid>
+            <pubDate>Tue, 08 Mar 2016 01:07:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[57 - video player]]></title>
-            <description><![CDATA[<article><h1>57 - video player</h1><p>I wanted to try and explore a concept of a landscape device that had controls that were easily accessible using thumbs only. I don't quite think it went far enough to distinguish itself from "just another video player", but I do think the concept is solid. Just have to teach users that the bar on the right is a timestamp/scrubber and not volume haha :P</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b345cf8d-7f95-4b91-a02c-95d729a30f0a.png"></article>]]></description>
+            <description><![CDATA[<article><h1>57 - video player</h1><p>I wanted to try and explore a concept of a landscape device that had controls that were easily accessible using thumbs only. I don't quite think it went far enough to distinguish itself from "just another video player", but I do think the concept is solid. Just have to teach users that the bar on the right is a timestamp/scrubber and not volume haha :P</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a0a80888ae2947e313c25630ae49016d71dac40.png"></article>]]></description>
             <link>https://thegrid.ai/100ui/57-video-player/index.html</link>
             <guid isPermaLink="false">125ac68d-b5d6-4779-8dfe-5faec39002a6</guid>
             <pubDate>Thu, 03 Mar 2016 04:59:55 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/100ui/5dd5ed52-9284-4d79-bfab-6798a666d3d1/index.html</link>
             <guid isPermaLink="false">5dd5ed52-9284-4d79-bfab-6798a666d3d1</guid>
             <pubDate>Tue, 23 Feb 2016 07:41:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5960a25-97a9-48ad-b42e-58629fa1427a.png">]]></description>
-            <link>https://thegrid.ai/100ui/56dc517d-2bb4-481f-91c9-0dfa319b2d48/index.html</link>
-            <guid isPermaLink="false">56dc517d-2bb4-481f-91c9-0dfa319b2d48</guid>
-            <pubDate>Tue, 23 Feb 2016 06:25:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
