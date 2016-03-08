@@ -4,8 +4,15 @@
         <description><![CDATA[100 days of ui]]></description>
         <link>https://thegrid.ai/100ui/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 01:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 01:24:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/100ui/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2d8e29b-10d9-4f36-b86e-c616da0f3b88.png">]]></description>
+            <link>https://thegrid.ai/100ui/51135478-ce2e-4771-b621-530a0b4dd7b8/index.html</link>
+            <guid isPermaLink="false">51135478-ce2e-4771-b621-530a0b4dd7b8</guid>
+            <pubDate>Tue, 08 Mar 2016 01:23:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/23d7e997-b24b-43c8-9b71-c6044d80aded.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/100ui/63f1cdf5-6a24-4ce3-9fd8-44d79dc1ea91/index.html</link>
             <guid isPermaLink="false">63f1cdf5-6a24-4ce3-9fd8-44d79dc1ea91</guid>
             <pubDate>Wed, 24 Feb 2016 06:06:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[21 - home monitoring dashboard]]></title>
-            <description><![CDATA[<article><h1>21 - home monitoring dashboard</h1><p>I'm happy with certain aspects of this design. Some things don't really come across the way I originally intended, though. I wanted to have glyphs instead of words, but I sort of ran out of time; and maybe it's not super obvious that the lines are supposed to be "sliders" for these things</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cec21cfa9ac9259b08b161795657c1b95bafa70b.png"></article>]]></description>
-            <link>https://thegrid.ai/100ui/5a993fe4-eaf1-4181-ba8b-2f47eb72d33b/index.html</link>
-            <guid isPermaLink="false">5a993fe4-eaf1-4181-ba8b-2f47eb72d33b</guid>
-            <pubDate>Tue, 23 Feb 2016 07:41:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
