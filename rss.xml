@@ -4,11 +4,18 @@
         <description><![CDATA[100 days of ui]]></description>
         <link>https://thegrid.ai/100ui/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 15:33:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 05:29:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/100ui/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/395d1d33-a7bb-445e-a9bd-5509a4b569f2.png">]]></description>
+            <link>https://thegrid.ai/100ui/0311766e-629a-48f4-a954-5fb89f53d17c/index.html</link>
+            <guid isPermaLink="false">0311766e-629a-48f4-a954-5fb89f53d17c</guid>
+            <pubDate>Fri, 11 Mar 2016 05:27:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[61 - redeem coupon]]></title>
-            <description><![CDATA[<article><h1>61 - redeem coupon</h1><p>Bit of a rote one, this one, and it uses "data" from an older challenge. I tried to do something a bit less ornate and go with a largely typographic thing. I really like this palette from lolcolors.com too</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b86a60be-8081-4ad8-a089-326ef876c2ed.png"></article>]]></description>
+            <description><![CDATA[<article><h1>61 - redeem coupon</h1><p>Bit of a rote one, this one, and it uses "data" from an older challenge. I tried to do something a bit less ornate and go with a largely typographic thing. I really like this palette from lolcolors.com too</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eaa50be4116c3c7fc606fe26b5b052d65e4c8437.png"></article>]]></description>
             <link>https://thegrid.ai/100ui/61-redeem-coupon/index.html</link>
             <guid isPermaLink="false">f798eaca-e9ae-46cf-a1af-dec58e33fd7c</guid>
             <pubDate>Tue, 08 Mar 2016 15:31:44 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/100ui/3a39660f-9b61-491f-b07f-3b39785406b9/index.html</link>
             <guid isPermaLink="false">3a39660f-9b61-491f-b07f-3b39785406b9</guid>
             <pubDate>Fri, 26 Feb 2016 11:36:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[52 - dailyui logo]]></title>
-            <description><![CDATA[<article><h1>52 - dailyui logo</h1><p>Super happy with this one - I want to work a lot more on my glyph/icon/illustration - this is a pretty good start</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ac06d7856d8f604fffd2918fdf3d38e5e60164c.png"></article>]]></description>
-            <link>https://thegrid.ai/100ui/52-dailyui-logo/index.html</link>
-            <guid isPermaLink="false">01d0643a-7944-4246-946f-43ba9cc9f7d0</guid>
-            <pubDate>Fri, 26 Feb 2016 11:36:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
