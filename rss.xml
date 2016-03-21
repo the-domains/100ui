@@ -4,8 +4,15 @@
         <description><![CDATA[100 days of ui]]></description>
         <link>https://thegrid.ai/100ui/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 03:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 03:16:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/100ui/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de555e4b-f329-41ae-8301-ed8854f04241.png">]]></description>
+            <link>https://thegrid.ai/100ui/bbfc7525-6032-4769-b15c-460686a34d25/index.html</link>
+            <guid isPermaLink="false">bbfc7525-6032-4769-b15c-460686a34d25</guid>
+            <pubDate>Mon, 21 Mar 2016 03:15:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b089016a-7d36-48cc-8e11-310812ab3b70.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/100ui/621b2e49-4b5c-4c70-9b1d-ec4c2bcb3ab0/index.html</link>
             <guid isPermaLink="false">621b2e49-4b5c-4c70-9b1d-ec4c2bcb3ab0</guid>
             <pubDate>Tue, 08 Mar 2016 01:13:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[57 - video player]]></title>
-            <description><![CDATA[<article><h1>57 - video player</h1><p>I wanted to try and explore a concept of a landscape device that had controls that were easily accessible using thumbs only. I don't quite think it went far enough to distinguish itself from "just another video player", but I do think the concept is solid. Just have to teach users that the bar on the right is a timestamp/scrubber and not volume haha :P</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a0a80888ae2947e313c25630ae49016d71dac40.png"></article>]]></description>
-            <link>https://thegrid.ai/100ui/57-video-player/index.html</link>
-            <guid isPermaLink="false">125ac68d-b5d6-4779-8dfe-5faec39002a6</guid>
-            <pubDate>Thu, 03 Mar 2016 04:59:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
