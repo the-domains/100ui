@@ -4,15 +4,8 @@
         <description><![CDATA[100 days of ui]]></description>
         <link>https://thegrid.ai/100ui/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 15:27:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 15:27:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/100ui/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6f13381-14fd-4132-81d3-7bb6b3948be8.gif">]]></description>
-            <link>https://thegrid.ai/100ui/08f32c0a-79e7-4797-8d3b-1945b2fde03b/index.html</link>
-            <guid isPermaLink="false">08f32c0a-79e7-4797-8d3b-1945b2fde03b</guid>
-            <pubDate>Sun, 03 Apr 2016 15:27:12 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a0f22fc-41f9-4bd2-8d45-cc18dfb9805c.png">]]></description>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/100ui/e6991a52-bf5b-48b2-b2a9-7126777cdb5c/index.html</link>
             <guid isPermaLink="false">e6991a52-bf5b-48b2-b2a9-7126777cdb5c</guid>
             <pubDate>Mon, 21 Mar 2016 03:16:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f1301ad-3ed9-47af-921c-025426e8aad1.png">]]></description>
+            <link>https://thegrid.ai/100ui/9036ae0a-65c8-4e63-86c0-727d7766fee2/index.html</link>
+            <guid isPermaLink="false">9036ae0a-65c8-4e63-86c0-727d7766fee2</guid>
+            <pubDate>Mon, 21 Mar 2016 03:16:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
